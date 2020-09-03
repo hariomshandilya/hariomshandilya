@@ -25,3 +25,27 @@ Here are some ideas to get you started:
 
 <img src="https://img.shields.io/badge/-html-orange?style=for-the-badge"> <img src="https://img.shields.io/badge/-css-red?style=for-the-badge"> <img src="https://img.shields.io/badge/-javascript-blueviolet?style=for-the-badge"> <img src="https://img.shields.io/badge/-C-lightgrey?style=for-the-badge"> <img src="https://img.shields.io/badge/-c++-green?style=for-the-badge"> <img src="https://img.shields.io/badge/-JAVA-orange?style=for-the-badge"> <img src="https://img.shields.io/badge/-SQl-red?style=for-the-badge"> <img src="https://img.shields.io/badge/-REACT-blue?style=for-the-badge"> 
 
+
+### This year also worked on
+
+**(Projects coming public soon ❗️)**
+
+<img src="https://img.shields.io/badge/-opencv-darkblue?style=for-the-badge"> <img src="https://img.shields.io/badge/-Algorithms-blue?style=for-the-badge"> <img src="https://img.shields.io/badge/-Database Management-blueviolet?style=for-the-badge">  <img src="https://img.shields.io/badge/-Blockchain-blue?style=for-the-badge"> 
+
+
+### What I want to learn
+
+<img src="https://img.shields.io/badge/-PYTHON-ffae42?style=for-the-badge"> <img src="https://img.shields.io/badge/-Fixing Bugs-ffd800?style=for-the-badge"> <img src="https://img.shields.io/badge/-Node js-e1ad01?style=for-the-badge">
+
+### What else I love
+
+<img src="https://img.shields.io/badge/-Business Management-7f1734?style=for-the-badge"> <img src="https://img.shields.io/badge/-Market Research-cf352e?style=for-the-badge"> <img src="https://img.shields.io/badge/-Entrepreneurship-de3163?style=for-the-badge"> 
+
+⚡ **Fun fact:**  I am super crazy about building products and businesses
+
+<br>
+
+
+### Connect with me!
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/) [<img src = "https://img.shields.io/badge/twitter-%2320A1F1.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/)
+[<img src="https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/) 
