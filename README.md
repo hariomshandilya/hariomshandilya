@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1 align="center">I am Hariom Shandilya.</h1>
+ <h4 align="center">A Software developer!</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hariomshandilya" alt="Hariom Shandilya" /></p>
+
