@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ### 2 Minutes to Describe Me 
 
-<img src="https://img.shields.io/badge/-Python_Scripting-orange?style=for-the-badge"> <img src="https://img.shields.io/badge/-Python-red?style=for-the-badge"> <img src="https://img.shields.io/badge/-C-lightgrey?style=for-the-badge"> <img src="https://img.shields.io/badge/-c++-green?style=for-the-badge"> <img src="https://img.shields.io/badge/-JAVA-orange?style=for-the-badge"> 
+<img src="https://img.shields.io/badge/-Python_Scripting-orange?style=for-the-badge"> <img src="https://img.shields.io/badge/-Python-red?style=for-the-badge"> <img src="https://img.shields.io/badge/-C-lightgrey?style=for-the-badge"> <img src="https://img.shields.io/badge/-c++-green?style=for-the-badge"> <img src="https://img.shields.io/badge/-JAVA-orange?style=for-the-badge"> <img src="https://img.shields.io/badge/-R-gray?style=for-the-badge">
 
 ### This year also worked on
 
